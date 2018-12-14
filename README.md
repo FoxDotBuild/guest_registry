@@ -2,5 +2,9 @@
 
 1. Install Ruby
 2. `ruby main.rb`
-3. Collect guest list in `main.csv`
-4. That's it.
+3. Visit `http://localhost:4567`
+4. Collect guest list in `main.csv` when ready.
+
+### Screenshot
+
+![preview](screencap.png)
