@@ -26,4 +26,3 @@ post ROOT do
   add_user(params.fetch(:name, NONE), params.fetch(:email, NONE))
   File.read(HTML)
 end
-
